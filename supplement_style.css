@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    margin-left: 600px; margin-right: 600px;
+    background-color: #f4f4f4;
+}
+nav {
+    margin-bottom: 20px;
+}
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+}
+h1, h2 {
+    color: darkblue;
+}
+p {
+    line-height: 1.6;
+}
+.return-to-top {
+    font-size: 0.5em; 
+    margin-left: 5px;
